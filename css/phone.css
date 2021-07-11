@@ -1,0 +1,30 @@
+.sub-header {
+    flex-direction: column;
+}
+
+.margin-auto-div {
+    width: 70%;
+}
+
+.second-button {
+    margin-left: 0px;
+    margin-top: 10px
+}
+
+.box-container {
+    width: 50%;
+}
+
+.services-sub-div {
+    width: 50%;
+}
+
+.blue-background {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+footer {
+    flex-direction: column;
+    text-align: center;
+}

@@ -1,0 +1,145 @@
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: royalblue;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.white-font {
+    color: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.sub-header {
+    display: flex;
+    align-items: center;
+}
+
+.white-background {
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+.margin-auto-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.margin-auto-div ul li {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.login-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-div input {
+    height: 50px;
+    width: 70%;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+.account-button {
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: darkgreen;
+    color: white;
+}
+
+.second-button {
+    margin-left: 20px;
+}
+
+.signup-buttons {
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: lightgrey;
+}
+
+.justify-content {
+    text-align: justify;
+    color: grey;
+}
+
+.text-div {
+    margin-top: 100px;
+}
+
+.text-center-align {
+    text-align: center;
+}
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.services-div {
+    margin-top: 200px;
+}
+
+.services-sub-div {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    color: grey;
+}
+
+.blue-background {
+    background-color: blue;
+    color: white;
+}
+
+.margin-set {
+    margin-top: 200px;
+}
+
+footer {
+    background-color: #010e28;
+    margin-top: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+}
+
+footer p {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
